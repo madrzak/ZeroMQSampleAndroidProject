@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZeroMQSampleProject</string>
+    <string name="title_activity_weather_sub">WeatherSubActivity</string>
+    <string name="title_activity_monitor_sub">MonitorSubActivity</string>
+</resources>
